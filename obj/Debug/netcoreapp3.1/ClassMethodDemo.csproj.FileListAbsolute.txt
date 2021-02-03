@@ -1,0 +1,13 @@
+G:\Project\c# project\GitHub\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.exe
+G:\Project\c# project\GitHub\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.deps.json
+G:\Project\c# project\GitHub\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.runtimeconfig.json
+G:\Project\c# project\GitHub\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.runtimeconfig.dev.json
+G:\Project\c# project\GitHub\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.dll
+G:\Project\c# project\GitHub\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.pdb
+G:\Project\c# project\GitHub\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.csprojAssemblyReference.cache
+G:\Project\c# project\GitHub\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.AssemblyInfoInputs.cache
+G:\Project\c# project\GitHub\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.AssemblyInfo.cs
+G:\Project\c# project\GitHub\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.csproj.CoreCompileInputs.cache
+G:\Project\c# project\GitHub\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.dll
+G:\Project\c# project\GitHub\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.pdb
+G:\Project\c# project\GitHub\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.genruntimeconfig.cache
