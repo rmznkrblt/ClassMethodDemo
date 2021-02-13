@@ -5,7 +5,6 @@ using System.Text;
 
 namespace ClassMethodDemo
 {
-    //snippet
     class Customer
     {
         public int Id { get; set; }
